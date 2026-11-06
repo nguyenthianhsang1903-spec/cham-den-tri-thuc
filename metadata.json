@@ -1,0 +1,6 @@
+{
+  "name": "Văn Học 12 – Chạm Đến Tri Thức",
+  "description": "Kho tàng tác phẩm Ngữ văn 12 bộ sách Kết nối tri thức với cuộc sống, tích hợp thư viện kiến thức và trò chơi tương tác.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
